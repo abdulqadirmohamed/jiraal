@@ -13,7 +13,7 @@ const Hero = () => {
           <h1 className='text-6xl font-semibold'>Buy, trade, and hold 350+ cryptocurrencies on Binance</h1>
         </div>
         {/* image */}
-        <div>
+        <div className='text-right'>
           <Image className='w-[600px] flex justify-end' src={img} alt='Sample image' />
         </div>
       </div>

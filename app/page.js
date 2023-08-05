@@ -1,4 +1,5 @@
 import Hero from '@/components/Hero'
+import Projects from '@/components/Projects'
 import Services from '@/components/Services'
 import SliderPage from '@/components/SliderPage'
 import Slogen from '@/components/Slogen'
@@ -13,6 +14,7 @@ export default function Home() {
         <Slogen/>
         <SliderPage/>
         <Services/>
+        <Projects/>
         <WhyChooseUs/>
       </div>
     </div>

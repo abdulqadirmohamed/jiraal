@@ -13,7 +13,7 @@ const SliderPage = () => {
   return (
     <div className="w-[70%] mx-auto py-14">
       <Swiper
-        className="bg-orange text-center h-56"
+        className="bg-[#0001E9] text-center h-56"
         spaceBetween={50}
         slidesPerView={1}
         pagination={{ clickable: true }}
