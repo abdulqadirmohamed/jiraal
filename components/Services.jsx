@@ -11,7 +11,7 @@ const Services = () => {
         { id: 3, title: 'Maximize Your Results', desc: 'Integrate Facebook & Google Ads accounts easily' },
     ]
     return (
-        <div className='my-6 bg-[#181A20] h-screen'>
+        <div className='my-6 bg-[#181A20] h-full'>
             <div className='w-[70%] mx-auto py-14'>
                 <h1 className='text-2xl font-semibold'>Our Services</h1>
                 <p>Our platform is trusted by millions worldwide, and features an unmatched portfolio of financial product offerings.</p>

@@ -6,8 +6,8 @@ import Image from 'next/image'
 
 const Hero = () => {
   return (
-    <div className='w-[70%] mx-auto'>
-      <div className=' grid grid-cols-2 items-center'>
+    <div className='bg-primary'>
+      <div className='w-[70%] mx-auto h-[600px] grid grid-cols-2 items-center'>
         {/* text */}
         <div className='text-[#eaecef]'>
           <h1 className='text-6xl font-semibold'>Buy, trade, and hold 350+ cryptocurrencies on Binance</h1>
